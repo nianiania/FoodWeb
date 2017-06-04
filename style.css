@@ -103,6 +103,49 @@ h1
 }
 
 
+.copy
+{
+	width: 70%;
+	margin-left: 15%;
+	margin-bottom: 20px;
+}
+
+h3:after
+{
+	width: 100px;
+	height: 2px;
+	background-color: #ffa94d;
+	display: block;
+	content: " ";
+	margin:0 auto;
+	margin-top: 30px;
+
+}
+
+.features h3
+{
+	margin-top: 80px;
+	margin-bottom: 30px;
+}
+
+.arranging
+{
+	text-align: justify;
+}
+
+.features i
+{
+	font-size: 40px;
+	color: #ffa94d;
+	margin-left: 35%;
+}
+
+
+.features h4
+{
+	margin-left: 40px;
+}
+
 
 
 
