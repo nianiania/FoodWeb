@@ -196,6 +196,7 @@ h3:after
 {
 	margin-top:60px;
 	margin-right: 40px;
+	margin-bottom: 80px;
 
 }
 
@@ -248,4 +249,24 @@ h3:after
 .mobile 
 {
 	margin-top:20px;
+}
+
+
+
+.cities
+{
+	margin-top: 60px;
+}
+
+
+.cities img
+{
+	width: 100%;
+	margin-top: 50px;
+}
+
+
+.cities i
+{
+	color: #ffa94d;
 }
