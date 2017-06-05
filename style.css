@@ -270,3 +270,43 @@ h3:after
 {
 	color: #ffa94d;
 }
+
+
+.testimonials
+{
+	margin-top: 80px;
+	background-image:linear-gradient(rgba(0,0,0,0.2),rgba(0,0,0,0.2)),url(img/2.jpg);
+	padding-top: 80px;
+	padding-bottom: 60px;
+	background-attachment:fixed;
+}
+
+.testimonials h3
+{
+	color: #ced4da;
+
+
+}
+
+
+.testimonials cite img
+{
+	width: 60px;
+	height: 60px;
+	border-radius: 50%;
+	margin-right: 10px;
+
+}
+
+.testimonials p
+{
+	color: #ffd8a8;
+	line-height: 25px;
+	text-align: justify;
+	margin-top: 40px;
+}
+
+.testimonials cite
+{
+	color: #ced4da;
+}
