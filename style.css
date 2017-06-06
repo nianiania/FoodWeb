@@ -310,3 +310,24 @@ h3:after
 {
 	color: #ced4da;
 }
+
+
+.btn-block
+{
+	background-color: #ffa94d;
+	color: #fff;
+	border-radius: 4px;
+	margin-top: 20px;
+}
+
+
+.gap
+{
+	margin-top: 40px;
+}
+
+
+.form
+{
+	margin-top: 80px;
+}
